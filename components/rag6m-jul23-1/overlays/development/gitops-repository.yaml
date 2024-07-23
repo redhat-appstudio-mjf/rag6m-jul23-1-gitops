@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rag6m-jul23-1-gitops-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/rag6m-jul23-1-gitops
